@@ -26,7 +26,7 @@ jar {
 bootJar{
 	archivesBaseName = 'ec2-loginjoindb'
 	archiveFileName = 'ec2-loginjoindb.jar'
-	archiveVersion = "1.0.0"
+	archiveVersion = "0.1.0"
 }
 
 dependencies {
